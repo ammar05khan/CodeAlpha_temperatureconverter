@@ -47,7 +47,3 @@ Contributions to this project are welcome! If you find any issues or have sugges
 If you have any questions or need further assistance, you can reach out to the project maintainers:
 
 - Ammar ali khan(mailto:ammar412khan@email.com)
-
----
-
-**Note:** Replace the placeholder text and URLs with your project-specific information. Include screenshots or other relevant images if desired.
